@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "top.fatestar/zwds",
+  "title": "FateStar · Zi Wei Dou Shu (紫微斗数)",
+  "description": "Zi Wei Dou Shu (Purple Star Astrology) charts, transits and AI readings. San He school. Charts free.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.fatestar.top/connect-ai",
+  "remotes": [
+    { "type": "streamable-http", "url": "https://www.fatestar.top/mcp" }
+  ]
+}
