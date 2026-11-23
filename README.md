@@ -6,6 +6,7 @@ and ask the AI reader "Zheng Daqian" (郑大钱) questions about a chart.
 - Endpoint (OAuth): https://www.fatestar.top/mcp
 - Endpoint (API key header): https://www.fatestar.top/api/mcp
 - School: San He (三合派). Geng-stem Si Hua: Lu Tai Yang, Quan Wu Qu, Ke Tian Tong, Ji Tai Yin.
+- Transit Si Hua: annual uses the year stem; monthly / daily / hourly use the real calendar month / day / hour stem (same as iztro and 文墨天机; changed 2026-11-23, earlier results for these three levels differed); decade and minor periods use the palace stem.
 - Pricing: charts and transits are free; AI readings cost US$0.10 (long questions US$0.20). New accounts get a one-time US$3 trial.
 
 ## Tools
