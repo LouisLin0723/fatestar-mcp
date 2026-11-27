@@ -1,5 +1,7 @@
 # FateStar MCP — Zi Wei Dou Shu (紫微斗数) for AI agents
 
+[![FateStar MCP connector](https://glama.ai/mcp/connectors/top.fatestar/zwds/badges/score.svg)](https://glama.ai/mcp/connectors/top.fatestar/zwds)
+
 Remote MCP server for Zi Wei Dou Shu (Purple Star Astrology): cast birth charts, read decade/annual transits,
 and ask the AI reader "Zheng Daqian" (郑大钱) questions about a chart.
 
@@ -39,6 +41,10 @@ Full guide for agents: https://www.fatestar.top/agent.md
 - The 12 Palaces: https://www.fatestar.top/ziwei-doushu/learn/12-palaces
 - The Four Transformations: https://www.fatestar.top/ziwei-doushu/learn/four-transformations
 - San He vs Fei Xing: https://www.fatestar.top/ziwei-doushu/learn/san-he-vs-fei-xing
+- Free chart calculator (no signup): https://www.fatestar.top/en/try
+- Base rates from 262,980 birth moments (with CSV): https://www.fatestar.top/ziwei-doushu/learn/statistics
+- 2027 annual chart facts (Ding Wei year): https://www.fatestar.top/ziwei-doushu/learn/annual/2027
+- 繁體中文：https://www.fatestar.top/zh-TW/wiki ｜ 简体中文：https://www.fatestar.top/wiki
 
 Listed in the official MCP Registry as `top.fatestar/zwds` (see [server.json](server.json)).
 
